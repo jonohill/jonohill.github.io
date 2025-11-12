@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <!-- Define the tumbleweed structure -->
+    <g id="tumbleweed">
+      <!-- Twigs radiating from center -->
+      <!-- Top twigs -->
+      <line x1="100" y1="100" x2="95" y2="55" stroke="#8B7355" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="95" y1="55" x2="90" y2="50" stroke="#A0826D" stroke-width="1" stroke-linecap="round"/>
+      <line x1="95" y1="55" x2="100" y2="48" stroke="#A0826D" stroke-width="1" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="105" y2="58" stroke="#8B7355" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="105" y1="58" x2="110" y2="52" stroke="#A0826D" stroke-width="1" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="115" y2="65" stroke="#8B7355" stroke-width="1.3" stroke-linecap="round"/>
+      <line x1="115" y1="65" x2="120" y2="58" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      <line x1="115" y1="65" x2="122" y2="68" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="85" y2="68" stroke="#8B7355" stroke-width="1.3" stroke-linecap="round"/>
+      <line x1="85" y1="68" x2="78" y2="65" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <!-- Right twigs -->
+      <line x1="100" y1="100" x2="142" y2="95" stroke="#8B7355" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="142" y1="95" x2="148" y2="90" stroke="#A0826D" stroke-width="1" stroke-linecap="round"/>
+      <line x1="142" y1="95" x2="148" y2="100" stroke="#A0826D" stroke-width="1" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="140" y2="105" stroke="#8B7355" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="140" y1="105" x2="146" y2="110" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="135" y2="85" stroke="#8B7355" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="135" y1="85" x2="140" y2="80" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round"/>
+      
+      <!-- Bottom twigs -->
+      <line x1="100" y1="100" x2="105" y2="142" stroke="#8B7355" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="105" y1="142" x2="110" y2="148" stroke="#A0826D" stroke-width="1" stroke-linecap="round"/>
+      <line x1="105" y1="142" x2="100" y2="148" stroke="#A0826D" stroke-width="1" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="95" y2="140" stroke="#8B7355" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="95" y1="140" x2="90" y2="146" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="120" y2="135" stroke="#8B7355" stroke-width="1.3" stroke-linecap="round"/>
+      <line x1="120" y1="135" x2="125" y2="140" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <!-- Left twigs -->
+      <line x1="100" y1="100" x2="58" y2="105" stroke="#8B7355" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="58" y1="105" x2="52" y2="110" stroke="#A0826D" stroke-width="1" stroke-linecap="round"/>
+      <line x1="58" y1="105" x2="52" y2="100" stroke="#A0826D" stroke-width="1" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="60" y2="95" stroke="#8B7355" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="60" y1="95" x2="54" y2="90" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="65" y2="115" stroke="#8B7355" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="65" y1="115" x2="60" y2="120" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round"/>
+      
+      <!-- Diagonal twigs -->
+      <line x1="100" y1="100" x2="125" y2="75" stroke="#8B7355" stroke-width="1.3" stroke-linecap="round"/>
+      <line x1="125" y1="75" x2="132" y2="68" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="75" y2="75" stroke="#8B7355" stroke-width="1.3" stroke-linecap="round"/>
+      <line x1="75" y1="75" x2="68" y2="68" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="125" y2="125" stroke="#8B7355" stroke-width="1.3" stroke-linecap="round"/>
+      <line x1="125" y1="125" x2="132" y2="132" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <line x1="100" y1="100" x2="75" y2="125" stroke="#8B7355" stroke-width="1.3" stroke-linecap="round"/>
+      <line x1="75" y1="125" x2="68" y2="132" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round"/>
+      
+      <!-- Additional small twigs for detail -->
+      <line x1="100" y1="100" x2="110" y2="75" stroke="#A0826D" stroke-width="1.1" stroke-linecap="round" opacity="0.7"/>
+      <line x1="100" y1="100" x2="90" y2="80" stroke="#A0826D" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+      <line x1="100" y1="100" x2="130" y2="100" stroke="#A0826D" stroke-width="1.1" stroke-linecap="round" opacity="0.7"/>
+      <line x1="100" y1="100" x2="70" y2="100" stroke="#A0826D" stroke-width="1.1" stroke-linecap="round" opacity="0.7"/>
+      <line x1="100" y1="100" x2="110" y2="125" stroke="#A0826D" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+      <line x1="100" y1="100" x2="85" y2="120" stroke="#A0826D" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+      
+      <!-- More foliage - additional branches -->
+      <!-- Upper right quadrant -->
+      <line x1="100" y1="100" x2="128" y2="88" stroke="#8B7355" stroke-width="1.2" stroke-linecap="round" opacity="0.7"/>
+      <line x1="128" y1="88" x2="135" y2="82" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.6"/>
+      <line x1="128" y1="88" x2="133" y2="92" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+      
+      <line x1="100" y1="100" x2="118" y2="72" stroke="#8B7355" stroke-width="1.1" stroke-linecap="round" opacity="0.7"/>
+      <line x1="118" y1="72" x2="122" y2="65" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+      
+      <!-- Upper left quadrant -->
+      <line x1="100" y1="100" x2="72" y2="88" stroke="#8B7355" stroke-width="1.2" stroke-linecap="round" opacity="0.7"/>
+      <line x1="72" y1="88" x2="65" y2="82" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.6"/>
+      <line x1="72" y1="88" x2="67" y2="92" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+      
+      <line x1="100" y1="100" x2="82" y2="72" stroke="#8B7355" stroke-width="1.1" stroke-linecap="round" opacity="0.7"/>
+      <line x1="82" y1="72" x2="78" y2="65" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+      
+      <!-- Lower right quadrant -->
+      <line x1="100" y1="100" x2="128" y2="112" stroke="#8B7355" stroke-width="1.2" stroke-linecap="round" opacity="0.7"/>
+      <line x1="128" y1="112" x2="135" y2="118" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.6"/>
+      <line x1="128" y1="112" x2="133" y2="108" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+      
+      <line x1="100" y1="100" x2="118" y2="128" stroke="#8B7355" stroke-width="1.1" stroke-linecap="round" opacity="0.7"/>
+      <line x1="118" y1="128" x2="122" y2="135" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+      
+      <!-- Lower left quadrant -->
+      <line x1="100" y1="100" x2="72" y2="112" stroke="#8B7355" stroke-width="1.2" stroke-linecap="round" opacity="0.7"/>
+      <line x1="72" y1="112" x2="65" y2="118" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.6"/>
+      <line x1="72" y1="112" x2="67" y2="108" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+      
+      <line x1="100" y1="100" x2="82" y2="128" stroke="#8B7355" stroke-width="1.1" stroke-linecap="round" opacity="0.7"/>
+      <line x1="82" y1="128" x2="78" y2="135" stroke="#A0826D" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+      
+      <!-- Extra fine twigs for fullness -->
+      <line x1="100" y1="100" x2="108" y2="82" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+      <line x1="100" y1="100" x2="92" y2="85" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+      <line x1="100" y1="100" x2="115" y2="95" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+      <line x1="100" y1="100" x2="85" y2="95" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+      <line x1="100" y1="100" x2="108" y2="118" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+      <line x1="100" y1="100" x2="92" y2="115" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+      <line x1="100" y1="100" x2="115" y2="105" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+      <line x1="100" y1="100" x2="85" y2="105" stroke="#A0826D" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+    </g>
+    
+    <!-- Animation definitions -->
+    <animateTransform
+      id="roll"
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 100 100"
+      to="360 100 100"
+      dur="3s"
+      repeatCount="indefinite"/>
+      
+    <animateTransform
+      id="move"
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="-150 0"
+      to="250 0"
+      dur="8s"
+      repeatCount="indefinite"/>
+  </defs>
+  
+  <!-- Ground line -->
+  <line x1="0" y1="145" x2="200" y2="145" stroke="#D2B48C" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Animated tumbleweed -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="-150 0"
+      to="250 0"
+      dur="8s"
+      repeatCount="indefinite"
+      additive="sum"/>
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      values="0 0; 0 -15; 0 0; 0 -10; 0 0; 0 -12; 0 0"
+      keyTimes="0; 0.15; 0.3; 0.45; 0.6; 0.75; 1"
+      calcMode="spline"
+      keySplines="0.25 0.1 0.25 1; 0.42 0 0.58 1; 0.25 0.1 0.25 1; 0.42 0 0.58 1; 0.25 0.1 0.25 1; 0.42 0 0.58 1"
+      dur="2s"
+      repeatCount="indefinite"
+      additive="sum"/>
+    <g>
+      <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        from="0 100 100"
+        to="360 100 100"
+        dur="3s"
+        repeatCount="indefinite"/>
+      <use href="#tumbleweed"/>
+    </g>
+  </g>
+  
+  <!-- Small dust clouds -->
+  <g opacity="0.3">
+    <ellipse cx="80" cy="148" rx="8" ry="3" fill="#D2B48C">
+      <animate attributeName="opacity" values="0;0.3;0" dur="2s" repeatCount="indefinite"/>
+      <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="translate"
+        from="0 0"
+        to="20 0"
+        dur="2s"
+        repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="120" cy="148" rx="6" ry="2.5" fill="#D2B48C">
+      <animate attributeName="opacity" values="0;0.3;0" dur="2.5s" begin="0.5s" repeatCount="indefinite"/>
+      <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="translate"
+        from="0 0"
+        to="15 0"
+        dur="2.5s"
+        begin="0.5s"
+        repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+</svg>
